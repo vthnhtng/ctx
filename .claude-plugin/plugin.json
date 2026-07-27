@@ -1,0 +1,17 @@
+{
+  "name": "ctx",
+  "description": "Persistent project context for Claude Code — ticket-centric knowledge management for business/technical changes only. Relationship graphs and historical context retrieval.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vthnhtng"
+  },
+  "license": "MIT",
+  "keywords": [
+    "context",
+    "jira",
+    "ticket",
+    "knowledge",
+    "documentation"
+  ],
+  "commands": ["commands/"]
+}

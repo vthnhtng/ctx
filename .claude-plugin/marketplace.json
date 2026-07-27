@@ -1,0 +1,14 @@
+{
+  "name": "ctx-dev",
+  "description": "Development marketplace for ctx persistent context plugin",
+  "owner": { "name": "vthnhtng" },
+  "plugins": [
+    {
+      "name": "ctx",
+      "description": "Persistent project context for Claude Code",
+      "version": "1.0.0",
+      "source": "./",
+      "author": { "name": "vthnhtng" }
+    }
+  ]
+}
