@@ -7,7 +7,7 @@
       "name": "ctx",
       "description": "Persistent project context for Claude Code",
       "version": "1.0.0",
-      "source": "./",
+      "source": "https://github.com/vthnhtng/ctx.git",
       "author": { "name": "vthnhtng" }
     }
   ]
